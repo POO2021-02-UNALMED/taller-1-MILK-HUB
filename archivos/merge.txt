@@ -5,5 +5,5 @@ Aprender y mejorar mis habilidades de programación.
 ¿Por qué
 es importante tener cuidado con modificar dos archivos al mismo tiempo?:
 R/A: Para evitar tener errores pues un compañero puede modificar archivos en los cuales estabamos trabajando
-y causar errores como el del punto 14 del taller 
+y causar errores como el del punto 14 del taller al hacer commit y/o push
 
